@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shyam C</h1>
+<p align="center">Aspiring Software Engineer | Front-End Developer | DSA Enthusiast</p>
 
-<!--
-**Shyam-192005/Shyam-192005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to contributing and creating amazing stuff together! 🚀  
+I love solving problems, building websites, and working on real-world applications with clean UI!
+
+---
+
+### 🔗 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shyam-chandrasekaran-175748320/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Shyam_Chandrasekaran_19/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Languages & Tools I Use:
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-192005&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Shyam-192005&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-192005&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🧠 Detailed GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyam-192005&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shyam-192005&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shyam-192005&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shyam-192005&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shyam-192005&theme=radical&utcOffset=+5" />
+</p>
+
+---
+
+### 🧩 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shyam_Chandrasekaran_19=dark&font=Baloo+Bhaijaan" alt="LeetCode Stats"/>
+</p>
+
+---
+
+### 🔥 Current Focus
+
+- 🌱 Currently learning *Full-Stack Development and Advanced DSA*  
+- 👯 Looking to collaborate on *front-end projects, Java-based apps, and internship opportunities*  
+- 💬 Ask me about *HTML, CSS, JavaScript, C++, and MySQL*  
+- ⚡ Fun fact: I built an eCommerce website called **Sportique** to sell sportswear using HTML, CSS, and JS!
+
+---
